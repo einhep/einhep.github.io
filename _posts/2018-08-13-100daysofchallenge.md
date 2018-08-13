@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "welcome to EINHEP Blog"
-subtitle: "hello"
+title: "100 days of challenge"
+subtitle: "machine learning algorithms and coding"
 data: 2018-08-13 10:45:00
 author: "einhep"
 header-img: "img/post-bg-2015"
