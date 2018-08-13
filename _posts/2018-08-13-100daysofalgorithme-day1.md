@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "递归算法"
+title: "day1-algrithms-递归算法"
 subtitle: "利用递归算法解决汉诺塔问题、级数问题和斐波那契数列问题"
 data: 2018-08-13 21:26:00
 author: "einhep"
