@@ -11,7 +11,7 @@ tags:
     - 机器学习
 ---
 
-> This is the begin of 100 days of challenge
+> This is the beginning of 100 days of challenge
 
 ## 100 days of algorithms
 [100 days of algorithms](https://github.com/einhep/100days)
