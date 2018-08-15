@@ -10,7 +10,7 @@ tags:
     - 算法
     - 机器学习
 ---
-
+转自[Grandyang](https://www.cnblogs.com/grandyang/p/4359825.html)
 # [LeetCode] Permutation 全排列
 这道题是求全排列问题，给的输入数组没有重复项，这跟之前的那道 Combinations 组合项 和类似，解法基本相同，但是不同点在于那道不同的数字顺序只算一种，是一道典型的组合题，而此题是求全排列问题，还是用递归DFS来求解。这里我们需要用到一个visited数组来标记某个数字是否访问过，然后在DFS递归函数从的循环应从头开始，而不是从level开始，这是和 Combinations 组合项 不同的地方，其余思路大体相同，代码如下：
 
