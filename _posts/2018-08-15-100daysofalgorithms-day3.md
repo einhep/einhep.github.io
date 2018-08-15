@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "day2-algrithms-动态规划"
-subtitle: "利用动态规划算法解决多种问题"
-data: 2018-08-14 22:51:00
+title: "day3-algrithms-排列问题"
+subtitle: "求解下一个排列"
+data: 2018-08-15 23:37:00
 author: "einhep"
 header-img: "img/post-bg-2015"
 tags:
