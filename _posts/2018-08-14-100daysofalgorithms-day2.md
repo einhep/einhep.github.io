@@ -11,3 +11,4 @@ tags:
     - 机器学习
 ---
 # [动态规划算法](https://www.cnblogs.com/wuyuegb2312/p/3281264.html)
+[硬币找零问题的３种解法](https://blog.csdn.net/sinat_30537123/article/details/78354349?locationNum=8&fps=1)
